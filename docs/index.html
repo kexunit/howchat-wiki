@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta charset="UTF-8">
+  <title>HowChat · WIKI</title>
+  <link rel="icon" href="https://www.how.chat/img/logo.ico" type="image/x-icon">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+</head>
+<body>
+  <div id="app">加载中···</div>
+  <script>
+    if (typeof navigator.serviceWorker !== 'undefined') {
+        navigator.serviceWorker.register('sw.js')
+    }
+    </script>
+  <script>
+    window.$docsify = {
+        coverpage: true,
+        relativePath: true,
+        coverpage: ['/', '/en/'],
+        mergeNavbar: true,
+        loadNavbar: true,
+        loadSidebar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
+      name: 'HowChat · WIKI',
+      search: {
+        noData: {
+          '/': '没有结果!',
+          '/en/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/': '搜索',
+          '/en/': 'Search'
+        },
+        pathNamespaces: ['/en']
+      }
+    }
+  </script>
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+</body>
+</html>
