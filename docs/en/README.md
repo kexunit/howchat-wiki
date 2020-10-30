@@ -11,15 +11,15 @@ See [download](use/download.md) for details.
 
 ## Features
 
--Simple registration, start using immediately
--Easy to use and lightweight, no redundant functions
--Intelligent encryption optimization
--Provide multiple sets of themes
--Rich API
--Support developers to develop by themselves
--Good user feedback support
--Conscience software platform
--Developers develop themselves ([prepare](programme/ready.md))
+- Simple registration, start using immediately
+- Easy to use and lightweight, no redundant functions
+- Intelligent encryption optimization
+- Provide multiple sets of themes
+- Rich API
+- Support developers to develop by themselves
+- Good user feedback support
+- Conscience software platform
+- Developers develop themselves ([prepare](programme/ready.md))
 
 ## Donate
 
