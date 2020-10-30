@@ -9,5 +9,6 @@
 - 更多的隐私保护
 - 极致体验
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#)
+[GitHub](https://github.com/kexunit/howchat)
+[GitHub-WIKI](https://github.com/kexunit/howchat-wiki)
+[Get Started](#howchat)

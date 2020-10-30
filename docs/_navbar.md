@@ -1,3 +1,3 @@
 * 语言-Language
-    * [中文](/zh-cn/)
+    * [中文](/)
     * [English](/en/)
