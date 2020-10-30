@@ -27,4 +27,4 @@ HowChat 致力于为用户提供绝佳的聊天体验。不同于 QQ、WeChat、
 
 ## 社区
 
-在[HowChat社区](https://bbs.how.chat/)的社区里可以找到docsify的用户和开发者团队。
+在[HowChat社区](https://bbs.how.chat/)的社区里可以找到HowChat的用户和开发者团队。
