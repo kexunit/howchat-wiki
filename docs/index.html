@@ -31,7 +31,18 @@
         fontsize:'0.9em',
         color:'rgb(90,90,90)',
         language:'chinese'
-      }
+      },
+      plugins:[
+        function(hook,vm){
+          hook.beforeEach(function (html) {
+            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            return editHtml
+            + html
+            + '\n\n----\n\n'
+            +'<a href="https://www.how.chat/" target="_blank" style="color: inherit; font-weight: normal; text-decoration: none;">Copyright © 2020 HowChat.All Rights Reserved. HowChat 版权所有</a>'
+          })
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
