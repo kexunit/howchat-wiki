@@ -2,9 +2,9 @@
   - [Download](./use/download.md)
 
   
--HowChat architecture
+- HowChat architecture
   - [Server Architecture](./architecture/quickstart.md)
   
   
--HowChat development
+- HowChat development
   - [Prepare](./programme/ready.md)
