@@ -1,6 +1,6 @@
--Operation
-  -[Return to previous directory](../)
+- Operation
+  - [Return to previous directory](../)
 
   
--HowChat architecture
-  -[Server Architecture](./quickstart.md)
+- HowChat architecture
+  - [Server Architecture](./quickstart.md)

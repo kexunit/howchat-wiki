@@ -1,10 +1,10 @@
--HowChat use
-  -[Download](./use/download.md)
+- HowChat use
+  - [Download](./use/download.md)
 
   
 -HowChat architecture
-  -[Server Architecture](./architecture/quickstart.md)
+  - [Server Architecture](./architecture/quickstart.md)
   
   
 -HowChat development
-  -[Prepare](./programme/ready.md)
+  - [Prepare](./programme/ready.md)
